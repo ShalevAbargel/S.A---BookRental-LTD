@@ -1,0 +1,97 @@
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\ApplicationInsights.config
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\S.A - BookRental LTD.dll.config
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\S.A - BookRental LTD.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\S.A - BookRental LTD.pdb
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Antlr3.Runtime.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\EntityFramework.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\EntityFramework.SqlServer.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.AI.Web.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.ApplicationInsights.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.Owin.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.Owin.Security.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Newtonsoft.Json.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Owin.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\System.Net.Http.Formatting.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\System.Web.Helpers.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\System.Web.Http.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\System.Web.Http.WebHost.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\System.Web.Mvc.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\System.Web.Optimization.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\System.Web.Razor.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\System.Web.WebPages.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\System.Web.WebPages.Razor.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\WebGrease.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\System.Web.Helpers.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\System.Web.Mvc.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\System.Web.Optimization.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\System.Web.Razor.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\System.Web.WebPages.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\System.Web.WebPages.Razor.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Antlr3.Runtime.pdb
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Newtonsoft.Json.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\System.Net.Http.Formatting.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\System.Web.Http.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\System.Web.Http.WebHost.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\EntityFramework.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\EntityFramework.SqlServer.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.Owin.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.Owin.Security.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.ApplicationInsights.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\Microsoft.AI.Web.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\obj\Debug\S.A - BookRental LTD.csprojResolveAssemblyReference.cache
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\obj\Debug\S.A - BookRental LTD.csproj.CoreCompileInputs.cache
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\obj\Debug\S.A - BookRental LTD.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\obj\Debug\S.A - BookRental LTD.pdb
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\obj\Debug\S.A___BookRental_LTD.Migrations.AddBookAndGenreClass.resources
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\obj\Debug\S.A - BookRental LTD.csproj.GenerateResource.Cache
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\obj\Debug\S.A___BookRental_LTD.Migrations.changedToDouble.resources
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\obj\Debug\S.A___BookRental_LTD.Migrations.AddPublisherToBookClass.resources
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\obj\Debug\S.A___BookRental_LTD.Migrations.ChangedTheDateInBook.resources
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\obj\Debug\S.A___BookRental_LTD.Migrations.AddMembersipTypeToDatabase.resources
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\obj\Debug\S.A___BookRental_LTD.Migrations.SeedMembershipTypeDatabase.resources
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\obj\Debug\S.A___BookRental_LTD.Migrations.AddFieldsToMembershipTable.resources
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\obj\Debug\S.A___BookRental_LTD.Migrations.AddFieldsToMembershipTableFixDatetime.resources
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\obj\Debug\S.A___BookRental_LTD.Migrations.ChangedBoolToIntInIdentityModel.resources
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\obj\Debug\S.A___BookRental_LTD.Migrations.ChangedBoolToIntInIdentityModel1.resources
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\obj\Debug\S.A___BookRental_LTD.Migrations.BackTOdBoolFromIntInIdentityModel.resources
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\obj\Debug\S.A___BookRental_LTD.Migrations.AddUserModelAndController.resources
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\obj\Debug\S.A___BookRental_LTD.Migrations.AddTYPEOFMEMBERSHIPTOUSERVIEWMODEL.resources
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\obj\Debug\S.A___BookRental_LTD.Migrations.addBookRentalModel.resources
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\obj\Debug\S.A___BookRental_LTD.Migrations.addRentalDurationToBookRentalModel.resources
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\PagedList.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\PagedList.Mvc.dll
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\PagedList.xml
+C:\Users\שליו אברג'ל\source\repos\S.A - BookRental LTD\S.A - BookRental LTD\bin\PagedList.Mvc.xml
