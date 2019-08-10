@@ -23,16 +23,40 @@ namespace S.A___BookRental_LTD.Extensions
                                   Title = b.Title,
                                   Description = b.Description,
                                   ImageUrl = b.ImageUrl,
-                                  Link = "/BookDetail/Index/" + b.Id
+                                  Link = "/BookDetail/Index/" + b.Id,
+                                  GenereName = b.Genre.Name,
+                                  MostRecomended = false
+                                  
                               }).ToList();
                 if(search!= null)
                 {
-                    return thumbnails.Where(t => t.Title.ToLower().Contains(search.ToLower())).OrderBy(t => t.Title);
+                    Dictionary<int, int> hm = new Dictionary<int, int>();
+                    foreach (var book in thumbnails)
+                    {
+                        if (book.GenereName.Equals(search))
+                        {
+                            hm.Add(book.BookId, 0);
+                            foreach (var b in db.BookRental)
+                            {
+                                if (hm.ContainsKey(b.BookId))
+                                    hm[b.BookId] += 1;
+                            }
+                        }
+                        
+                    }
+                    var keyOfMaxValue = hm.Aggregate((x, y) => x.Value > y.Value ? x : y).Key;
+                    foreach(var book in thumbnails)
+                    {
+                        if (book.BookId == keyOfMaxValue)
+                            book.MostRecomended = true;
+                    }
+
+                    return thumbnails.Where(t => t.GenereName.ToLower().Contains(search.ToLower())).OrderBy(t => t.GenereName);
                 }
             }
             catch (Exception ex)
             {
-
+           
             }
             return thumbnails.OrderBy(b => b.Title);
         }

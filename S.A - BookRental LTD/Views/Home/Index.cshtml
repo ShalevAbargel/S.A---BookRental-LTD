@@ -15,7 +15,22 @@
             </button>
         </div>
         <div class="pull-right">
-            @Html.Editor("search", new { htmlattributes = new { @class = "form-control input-sm" } })
+            @*  @Html.Editor("search", new { htmlattributes = new { @class = "form-control input-sm" } })*@
+
+
+            @{
+                List<SelectListItem> listItem = new List<SelectListItem>();
+                ApplicationDbContext db = ApplicationDbContext.Create();
+                foreach (var item in db.Genres)
+                {
+                    listItem.Add(new SelectListItem
+                    {
+                        Text = item.Name,
+                        Value = item.Name
+                    });
+                }
+            }
+            @Html.DropDownList("search",listItem,"select genre", new { @class = "form-control input-sm" } )
 
         </div>
     </div>

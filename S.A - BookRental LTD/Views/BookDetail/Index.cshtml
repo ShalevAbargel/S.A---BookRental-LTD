@@ -9,8 +9,8 @@
     @Html.AntiForgeryToken()
     <div class="row">
         @*book image*@
-        <div class="col-sm-3 col-xs-4 image-book">
-            <img class="thumbnail-img" src="@Model.ImageUrl" alt="" style="width:100%; height:auto; padding:10px;" />
+        <div class="col-sm-3 col-xs-4 image-book">     
+                <img class="thumbnail-img" src="@Model.ImageUrl" alt="" style="width:100%; height:auto; padding:10px;" />      
         </div>
 
         @*title and discription*@
@@ -23,7 +23,12 @@
                <br/>
                <span>@Html.Raw(Model.Description)</span>
            </div><br/>
-
+            <br>
+            <div>
+                <video width="320" height="240" controls loop>
+                    <source src="~/Content/video/1.mp4" type="video/mp4">
+                </video>
+            </div>
         </div>
         @*book price and other book details*@
         <div class="col-sm-3 col-xs-12 content-book-product-details">
